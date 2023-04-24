@@ -539,7 +539,7 @@ IF %newServerName%==Landserver (
 			SET /A "seaServerStatus=1"
 			SET "shortcutName=星铁国际服"
 			SET "channel=1"
-			SET "cps=gw_PC"
+			SET "cps=hoyoverse_PC"
 			SET "sub_channel=1"
 		)
 	)
