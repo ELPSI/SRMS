@@ -1,6 +1,6 @@
 # SRMS
 
-星穹铁道多服创建工具(Star Rail Mutiple-Servers Creating Tool).
+星穹铁道多服创建工具
 
 Only for personal use.
 
